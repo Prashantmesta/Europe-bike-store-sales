@@ -36,7 +36,7 @@ The dashboard helps business users track revenue, profit, and sales trends.
 - KPI cards
 
 ## 📸 Dashboard Preview
-![Overview]([https://github.com/Prashantmesta/Europe-bike-store-sales/blob/e24315b37805e85429b8674d851eff415a94d4fe/BI%20PROJECT%20SS.png])
+![Overview](https://github.com/Prashantmesta/Europe-bike-store-sales/blob/e24315b37805e85429b8674d851eff415a94d4fe/BI%20PROJECT%20SS.png)
 
 ## 📚 Learnings
 - Data cleaning using Power Query
